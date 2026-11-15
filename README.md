@@ -58,9 +58,9 @@ Features, gameplay systems, environments, and content are subject to change as d
 - Turkish
 
 ## Credits
-Asrın Muaz Çeliktenyıldız
-Duru Yucayurt
-Melike Kayar
+Asrın Muaz Çeliktenyıldız ,
+Duru Yucayurt ,
+Melike Kayar ,
 
 ## Community & Contributions
 
