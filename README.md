@@ -58,16 +58,9 @@ Features, gameplay systems, environments, and content are subject to change as d
 - Turkish
 
 ## Credits
-
-**Development Team:** [ADD TEAM NAME]
-
-**Game Design:** [ADD NAMES]
-
-**Programming:** [ADD NAMES]
-
-**Art & Animation:** [ADD NAMES]
-
-**Music & Sound Design:** [ADD NAMES]
+Asrın Muaz Çeliktenyıldız
+Duru Yucayurt
+Melike Kayar
 
 ## Community & Contributions
 
