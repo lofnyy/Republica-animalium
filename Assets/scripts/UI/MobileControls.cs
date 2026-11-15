@@ -141,8 +141,6 @@ public class MobileControls : MonoBehaviour
 
     void HandleJoystick()
     {
-        var touches = UnityEngine.InputSystem.EnhancedTouch.Touch.activeTouches;
-        // EnhancedTouch kullanmak yerine eski Input API ile de çalışabilsin
         int touchCount = Input.touchCount;
 
         // Aktif parmağı takip et
