@@ -61,7 +61,9 @@ Features, gameplay systems, environments, and content are subject to change as d
 Asrın Muaz Çeliktenyıldız ,
 Duru Yucayurt ,
 Melike Kayar ,
-
+Esat Çiftci ,
+Göktuğ Tokgöz ,
+Narin Akyıldız
 ## Community & Contributions
 
 Found a bug? Have an idea? Want to contribute?
