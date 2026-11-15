@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: d10b7e94f072caf47a6aeb2e1f3c9237
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4717765375839483814
+    second: gergedansag2_0
+  - first:
+      213: -6840800063036089251
+    second: gergedansag2_1
+  - first:
+      213: 1316016254820165945
+    second: gergedansag2_2
+  - first:
+      213: -8138610232623316742
+    second: gergedansag2_3
+  - first:
+      213: 1304578549624464461
+    second: gergedansag2_4
+  - first:
+      213: -3025134395955752120
+    second: gergedansag2_5
+  - first:
+      213: -6004535700124759022
+    second: gergedansag2_6
+  - first:
+      213: -4090773624259923164
+    second: gergedansag2_7
+  - first:
+      213: 1027533823688070890
+    second: gergedansag2_8
+  - first:
+      213: -4055853717855359458
+    second: gergedansag2_9
+  - first:
+      213: -2426088465261983056
+    second: gergedansag2_10
+  - first:
+      213: -2306721346552767987
+    second: gergedansag2_11
+  - first:
+      213: -2718631698624113998
+    second: gergedansag2_12
+  - first:
+      213: -3088120853914319292
+    second: gergedansag2_13
+  - first:
+      213: -5792850374729974079
+    second: gergedansag2_14
+  - first:
+      213: 8598652469118938191
+    second: gergedansag2_15
+  - first:
+      213: 5652528826167241765
+    second: gergedansag2_16
+  - first:
+      213: -997298121306814822
+    second: gergedansag2_17
+  - first:
+      213: 3791179282310077577
+    second: gergedansag2_18
+  - first:
+      213: -2864011251966616611
+    second: gergedansag2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5177, y: 0.1437}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gergedansag2_0
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 480
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58437fe261278eb0800000000000000
+      internalID: -4717765375839483814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 479
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c934736989011a0800000000000000
+      internalID: -6840800063036089251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 479
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939223bafcd634210800000000000000
+      internalID: 1316016254820165945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 479
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0c0271d19dd0f80800000000000000
+      internalID: -8138610232623316742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 480
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44e5f7674bca1210800000000000000
+      internalID: 1304578549624464461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 479
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843dd337b409406d0800000000000000
+      internalID: -3025134395955752120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_6
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 479
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c89e8189a9baca0800000000000000
+      internalID: -6004535700124759022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 480
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42333750017aa37c0800000000000000
+      internalID: -4090773624259923164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 481
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae650ab8198824e00800000000000000
+      internalID: 1027533823688070890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 478
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ea84e4886b6b7c0800000000000000
+      internalID: -4055853717855359458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 479
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba0362156dc45ed0800000000000000
+      internalID: -2426088465261983056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 479
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a59e62821ecffd0800000000000000
+      internalID: -2306721346552767987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_12
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 479
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b29460cfda754ad0800000000000000
+      internalID: -2718631698624113998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 479
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44606f6e17ac425d0800000000000000
+      internalID: -3088120853914319292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 478
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce3b39a649ab9fa0800000000000000
+      internalID: -5792850374729974079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 480
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4caed0fcdc845770800000000000000
+      internalID: 8598652469118938191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_16
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 479
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52caa5ed401d17e40800000000000000
+      internalID: 5652528826167241765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_17
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 480
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c75084a2e822f0800000000000000
+      internalID: -997298121306814822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_18
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 479
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c99e18879fc9430800000000000000
+      internalID: 3791179282310077577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansag2_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 67
+        width: 802
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbdec5c0fcf048d0800000000000000
+      internalID: -2864011251966616611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gergedansag2_0: -4717765375839483814
+      gergedansag2_1: -6840800063036089251
+      gergedansag2_10: -2426088465261983056
+      gergedansag2_11: -2306721346552767987
+      gergedansag2_12: -2718631698624113998
+      gergedansag2_13: -3088120853914319292
+      gergedansag2_14: -5792850374729974079
+      gergedansag2_15: 8598652469118938191
+      gergedansag2_16: 5652528826167241765
+      gergedansag2_17: -997298121306814822
+      gergedansag2_18: 3791179282310077577
+      gergedansag2_19: -2864011251966616611
+      gergedansag2_2: 1316016254820165945
+      gergedansag2_3: -8138610232623316742
+      gergedansag2_4: 1304578549624464461
+      gergedansag2_5: -3025134395955752120
+      gergedansag2_6: -6004535700124759022
+      gergedansag2_7: -4090773624259923164
+      gergedansag2_8: 1027533823688070890
+      gergedansag2_9: -4055853717855359458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

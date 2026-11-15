@@ -1,0 +1,652 @@
+{
+  "entries": [
+    {
+      "id": "speaker.narrator",
+      "tr": "Anlatıcı",
+      "en": "Narrator",
+      "note": ""
+    },
+    {
+      "id": "speaker.hedgehog",
+      "tr": "Kirpi",
+      "en": "Hedgehog",
+      "note": ""
+    },
+    {
+      "id": "speaker.mole",
+      "tr": "Köstebek",
+      "en": "Mole",
+      "note": ""
+    },
+    {
+      "id": "speaker.badger",
+      "tr": "Porsuk",
+      "en": "Badger",
+      "note": ""
+    },
+    {
+      "id": "speaker.rhino",
+      "tr": "Gergedan",
+      "en": "Rhinoceros",
+      "note": ""
+    },
+    {
+      "id": "speaker.tortoise",
+      "tr": "Kaplumbağa",
+      "en": "Tortoise",
+      "note": ""
+    },
+    {
+      "id": "speaker.owl",
+      "tr": "Baykuş",
+      "en": "Owl",
+      "note": ""
+    },
+    {
+      "id": "speaker.noble1",
+      "tr": "Asil 1",
+      "en": "Nobleman 1",
+      "note": ""
+    },
+    {
+      "id": "speaker.noble2",
+      "tr": "Asil 2",
+      "en": "Nobleman 2",
+      "note": ""
+    },
+    {
+      "id": "speaker.lion",
+      "tr": "Aslan",
+      "en": "Lion",
+      "note": ""
+    },
+    {
+      "id": "boss.rhino",
+      "tr": "Gergedan",
+      "en": "Rhinoceros",
+      "note": ""
+    },
+    {
+      "id": "boss.owl",
+      "tr": "Baykuş",
+      "en": "Owl",
+      "note": ""
+    },
+    {
+      "id": "boss.lion",
+      "tr": "ASLAN",
+      "en": "LION",
+      "note": ""
+    },
+    {
+      "id": "act1.intro.narrator_01",
+      "tr": "<i>Bu güzel ormanın ve temiz havanın ardında, belki de görünenden çok farklı bir hayat vardır.</i>",
+      "en": "<i>In this beautiful forest and fresh air, there may be a life quite different from what meets the eye.</i>",
+      "note": "Act I / opening"
+    },
+    {
+      "id": "act1.intro.hedgehog_01",
+      "tr": "Çalışmak, çalışmak ve yine çalışmak... Bu lanet yerin başka bir özelliği var mı?",
+      "en": "Work, work and more work—is there anything else to this cursed place?",
+      "note": "Act I / opening"
+    },
+    {
+      "id": "act1.intro.mole_01",
+      "tr": "Pençelerime bak, kazmaktan ne hâle geldi. Sadece çalışarak bir yere varılacağını sanıyor bu Ger...",
+      "en": "Look at the state my claws are in from all this digging – what does this idiot think he'll achieve by nothing but work…",
+      "note": "Act I / opening. English follows the provided dialogue PDF."
+    },
+    {
+      "id": "act1.intro.narrator_02",
+      "tr": "<i>Madende yöneticinin adı ağıza alınmazdı. Herkes bilirdi: o adı söylemeye cüret edenin sonu iyi olmazdı.</i>",
+      "en": "<i>The manager's name was never spoken outright in the mine. Everyone knew that nothing good would come to anyone who dared to say his name.</i>",
+      "note": "Act I / opening"
+    },
+    {
+      "id": "act1.intro.hedgehog_02",
+      "tr": "Şşşt! Bizi öldürtmek mi istiyorsun?",
+      "en": "Shhh, do you want to get us killed?",
+      "note": "Act I / opening"
+    },
+    {
+      "id": "act1.intro.badger_01",
+      "tr": "Siz ikinizin konuşmaktan başka işi yok mu? Hem sen... onun adını ağzına almaya nasıl cüret edersin?",
+      "en": "Don't you two have anything better to do than chat? And how dare you even mention his name?",
+      "note": "Act I / opening"
+    },
+    {
+      "id": "act1.intro.hedgehog_03",
+      "tr": "Arkadaşlar! Yıllardır katlandığımız bu zulüm hayatımızı tehlikeye atıyor. Biz kimsenin hayatını ona adamak için dünyaya gelmedik. Gergedan'ı devirmenin zamanı geldi!",
+      "en": "Friends, the oppression we've endured for years is putting our very existence at risk. We weren't born into this world to devote our lives to anyone. The time has come to overthrow the RHINO.",
+      "note": "Act I / opening"
+    },
+    {
+      "id": "act1.boss.rhino_01",
+      "tr": "Sen kim oluyorsun da beni devireceksin, küçük kirpi?",
+      "en": "Who do you think you are, little hedgehog, to overthrow me?",
+      "note": "Act I / boss intro"
+    },
+    {
+      "id": "act1.boss.hedgehog_01",
+      "tr": "Ben ömrümü bu madende çürütmek için doğmadım. Bizi bu esarete mahkûm eden sensin.",
+      "en": "I wasn't born to waste my life away in a cave. You're the one who's condemned us to this captivity.",
+      "note": "Act I / boss intro"
+    },
+    {
+      "id": "act1.boss.rhino_02",
+      "tr": "Benim esaretim senin için cennettir. Ben olmasam hayatın bir hiçti.",
+      "en": "My captivity is paradise for you. Without me, your life would be nothing.",
+      "note": "Act I / boss intro"
+    },
+    {
+      "id": "act1.boss.rhino_phase2",
+      "tr": "Gücümün sınırları hayal edebileceğinden çok daha büyük!",
+      "en": "The limits of my power are greater than you can imagine.",
+      "note": "Act I / boss phase 2"
+    },
+    {
+      "id": "act1.escape.mole_01",
+      "tr": "Beni bırak. Zorunda değilsin.",
+      "en": "You don't have to leave me behind.",
+      "note": "Act I / escape. CHECK: the PDF's English reads as the opposite of the Turkish (TR: 'Leave me. You don't have to.')"
+    },
+    {
+      "id": "act1.escape.hedgehog_01",
+      "tr": "Beraber başladık, beraber devam edeceğiz.",
+      "en": "We started this together; we'll see it through together.",
+      "note": "Act I / escape"
+    },
+    {
+      "id": "act2.village.narrator_01",
+      "tr": "Belki mağaradaki kargaşa çözülmüştü. Tabii çok da adil olmayan bir yöntemle. Fakat köyün durumu hiç de iyi değildi.",
+      "en": "Perhaps the commotion in the cave had been resolved. Admittedly, by means that were not entirely fair. However, the situation in the village was far from good.",
+      "note": "Act II / return to the village"
+    },
+    {
+      "id": "act2.home.hedgehog_01",
+      "tr": "Olamaz... Ailem, evim...",
+      "en": "It can't be—my family, my home...",
+      "note": "Act II / ruined house"
+    },
+    {
+      "id": "act2.home.narrator_01",
+      "tr": "Mahvolmuşluğun arasında yalnızca umutsuzluk vardı.",
+      "en": "Despair amidst the devastation...",
+      "note": "Act II / ruined house"
+    },
+    {
+      "id": "act2.home.hedgehog_02",
+      "tr": "Hey sen, Kaplumbağa! Köydeki insanlar nerede, biliyor musun?",
+      "en": "Hey, you, Tortoise, do you know where the people from the village are?",
+      "note": "Act II / ruined house"
+    },
+    {
+      "id": "act2.home.tortoise_01",
+      "tr": "Evlat, köydekileri kiliseye götürdüler.",
+      "en": "My child, they've taken the villagers to the church.",
+      "note": "Act II / ruined house"
+    },
+    {
+      "id": "act2.church.owl_01",
+      "tr": "Tanrı'nın adına konuşuyorum!",
+      "en": "I speak in the name of God!",
+      "note": "Act II / sermon (PDF merges owl_01-04 into one speech)"
+    },
+    {
+      "id": "act2.church.owl_02",
+      "tr": "Siz cahiller görmelisiniz ki Tanrı'ya karşı gelenler cezalandırılır.",
+      "en": "You fools must realise that those who defy God will be punished.",
+      "note": "Act II / sermon"
+    },
+    {
+      "id": "act2.church.owl_03",
+      "tr": "Maden ocağını yıkanlar depremle cezalandırılmıştır.",
+      "en": "Those who destroyed the mine have been punished by an earthquake.",
+      "note": "Act II / sermon"
+    },
+    {
+      "id": "act2.church.owl_04",
+      "tr": "Tanrı'nın yüce otoritesi hafife alınamaz!",
+      "en": "God's supreme authority cannot be taken lightly.",
+      "note": "Act II / sermon"
+    },
+    {
+      "id": "act2.church.hedgehog_01",
+      "tr": "Yeter artık bu safsatalar!",
+      "en": "Enough of this nonsense!",
+      "note": "Act II / revolt"
+    },
+    {
+      "id": "act2.church.hedgehog_02",
+      "tr": "Senin yüzünden yüzlerce hayvan öldü! Daha fazla yalana ihtiyacımız yok!",
+      "en": "Hundreds of animals have died because of you. We don't need any more lies.",
+      "note": "Act II / revolt"
+    },
+    {
+      "id": "act2.scroll.hedgehog_01",
+      "tr": "Bu şey de ne?",
+      "en": "What on earth is this?",
+      "note": "Act II / blank scroll"
+    },
+    {
+      "id": "act2.scroll.text",
+      "tr": "Ben Yüce Kral Aslan\nEmrim olur ki köyde olan depremden sonra enkazlardan çıkan köylülerin cesetleri toplanacaktır. Cesetler kalenin ısınma ihtiyacı için kullanılacaktır. Biz asilleri ısıtmak için fakirlerin bedeni bir çöp kadar değersizdir. Cesetleri yaktığınızı gören olursa da bunlar vebalı diyebilirsiniz. Halkı kışkırtmak istemeyiz. Ayrıca mağarada isyan çıkartanların ailesini depremde ölmese dahi özellikle esir alıp yakın.\nCezalarını diğer dünyada Tanrı'dan çekmeden önce bu dünyada belli bir amaca hizmet etmek için kullanılabilir.",
+      "en": "I, the Great King Lion,\nhereby decree that following the earthquake in the village, the bodies of the villagers recovered from the rubble shall be collected. The bodies shall be used to heat the castle. To warm us nobles, the bodies of the poor are as worthless as rubbish. Should anyone witness you burning the bodies, you may claim they were plague-ridden. We do not wish to incite the people. Furthermore, the families of those who instigated the rebellion in the cave—even if they did not perish in the earthquake—are to be taken captive and burned.\nBefore they suffer their punishment from God in the next world, they may be utilised in this world to serve a specific purpose.",
+      "note": "Act II / hidden scroll. In the game the scroll is a drawn image (parsomenyazili.png). TR image has typos 'özelliklle' and 'diğerdünyada'; the text here is corrected. The EN image is generated from this text (parsomenyazili_en.png)."
+    },
+    {
+      "id": "item.letter.title",
+      "tr": "Mühürlü Mektup",
+      "en": "Sealed Letter",
+      "note": "Readable in-game text from the Level 2 scroll pickup."
+    },
+    {
+      "id": "item.letter.body",
+      "tr": "Bu mektubu kim bulduysa,\n\nKilisenin bekçisi düştüyse yol artık açık demektir. Kral, tepedeki sarayında bekliyor. Kapısındaki muhafızlar kimseyi içeri almaz; girmek isteyen önce onları yenmeli.\n\nTaht odasına vardığında geri dönüş yok. Hazır ol.\n\n<align=right><i>— İsimsiz bir dost</i></align>",
+      "en": "To whoever finds this letter,\n\nIf the church's guardian has fallen, the way is clear. The king awaits in his palace on the hill. The guards at his door will let no one in; anyone who wishes to enter must defeat them first.\n\nOnce you reach the throne room, there is no turning back. Be prepared.\n\n<align=right><i>— An unnamed friend</i></align>",
+      "note": "Readable in-game text from the Level 2 scroll pickup."
+    },
+    {
+      "id": "act3.gate.noble1_01",
+      "tr": "Zavallı köylülerin hâline acıyorum. Kalacak bir evleri bile yok.",
+      "en": "I feel sorry for those poor peasants. They don't even have a home to stay in.",
+      "note": "Act III / approach"
+    },
+    {
+      "id": "act3.gate.noble2_01",
+      "tr": "Ha ha ha! Biz burada zenginlik içinde yaşarken onlar o bataklıkta sefaletten ölebilir.",
+      "en": "Ha ha ha! Whilst we live here in luxury, they might well die of misery in that swamp.",
+      "note": "Act III / approach"
+    },
+    {
+      "id": "act3.gate.noble1_02",
+      "tr": "Ölsünler ama sonra yakılsınlar. İşe yaradıkları tek yer bizi ısıtmaları.",
+      "en": "Let them die, but then let them be burnt. The only use they have is to keep us warm.",
+      "note": "Act III / approach"
+    },
+    {
+      "id": "act3.gate.noble2_02",
+      "tr": "O işe yaramasalardı Aslan onları burada tutmazdı.",
+      "en": "If they weren't of any use, the lion wouldn't have kept them here.",
+      "note": "Act III / approach. PDF says 'stopped them here'; changed to 'kept' to match the Turkish."
+    },
+    {
+      "id": "act3.gate.hedgehog_01",
+      "tr": "Kendinize asil diyen zavallılar, Aslan'ın kölelerinden başka bir şey değilsiniz! O fakir dediğiniz köylüler sizden çok daha onurlu.",
+      "en": "You wretched creatures who call yourselves nobles, aren't you merely the lion's slaves? Those villagers you call poor are more honourable than you.",
+      "note": "Act III / approach. PDF says 'Those men you call poor'; changed to 'villagers' to match the Turkish."
+    },
+    {
+      "id": "act3.throne.lion_01",
+      "tr": "Taht odama girmeye cüret eden bu aciz yaratık da kim?",
+      "en": "Who is this wretched creature who dares to enter my throne room?",
+      "note": "Act III / throne room"
+    },
+    {
+      "id": "act3.throne.hedgehog_01",
+      "tr": "Ailemi, evimi… Her şeyimi elimden aldın, seni aşağılık!",
+      "en": "You took my family, my home... everything from me, you wretch.",
+      "note": "Act III / throne room"
+    },
+    {
+      "id": "act3.throne.lion_02",
+      "tr": "Bir pisliğin kapıma kadar geleceğini tahmin edemezdim. Mu… Muha… Muhafızlar!",
+      "en": "I never imagined such filth would come to my door. Gu... Gu... Guards!",
+      "note": "Act III / throne room"
+    },
+    {
+      "id": "act3.throne.hedgehog_02",
+      "tr": "Bu sefer yardımına gelecek kimse kalmadı. Tek seçeneğin savaşmak!",
+      "en": "There's no one left to come to your aid this time. Your only option is to fight.",
+      "note": "Act III / throne room"
+    },
+    {
+      "id": "act3.end.lion_01",
+      "tr": "B… B… Beni öldürme!",
+      "en": "D... D... Don't kill me.",
+      "note": "Act III / after the fight"
+    },
+    {
+      "id": "act3.end.hedgehog_01",
+      "tr": "Seni öldürmek benim amacımdı. Amacımdan şaşmayacağım.",
+      "en": "Killing you was my intention. I won't waver from my purpose.",
+      "note": "Act III / after the fight"
+    },
+    {
+      "id": "act3.end.lion_02",
+      "tr": "Sana hay… hayal edemeyeceğin şeyler veririm. Seni a… asiller gibi yaşatırım!",
+      "en": "I'll give you things you could never... even imagine. I'll let you live like the A... A... Aristocrats.",
+      "note": "Act III / after the fight"
+    },
+    {
+      "id": "act3.end.hedgehog_02",
+      "tr": "Söylediklerinin hiçbir anlamı yok, ASLAN. Bugün burada öleceksin!",
+      "en": "What you're saying means nothing, LION. You'll die here today.",
+      "note": "Act III / after the fight"
+    },
+    {
+      "id": "menu.play",
+      "tr": "Başla",
+      "en": "Play",
+      "note": ""
+    },
+    {
+      "id": "menu.settings",
+      "tr": "Ayarlar",
+      "en": "Settings",
+      "note": ""
+    },
+    {
+      "id": "menu.settings_title",
+      "tr": "Ayarlar",
+      "en": "Settings",
+      "note": ""
+    },
+    {
+      "id": "menu.volume",
+      "tr": "Ses",
+      "en": "Volume",
+      "note": ""
+    },
+    {
+      "id": "settings.volume_pct",
+      "tr": "%{0}",
+      "en": "{0}%",
+      "note": ""
+    },
+    {
+      "id": "menu.language",
+      "tr": "Dil",
+      "en": "Language",
+      "note": ""
+    },
+    {
+      "id": "menu.back",
+      "tr": "Geri",
+      "en": "Back",
+      "note": ""
+    },
+    {
+      "id": "menu.quit",
+      "tr": "Çıkış",
+      "en": "Exit",
+      "note": ""
+    },
+    {
+      "id": "lang.tr",
+      "tr": "Türkçe",
+      "en": "Türkçe",
+      "note": "Language names are never translated"
+    },
+    {
+      "id": "lang.en",
+      "tr": "English",
+      "en": "English",
+      "note": "Language names are never translated"
+    },
+    {
+      "id": "ui.continue",
+      "tr": "[E] devam",
+      "en": "[E] continue",
+      "note": ""
+    },
+    {
+      "id": "ui.close",
+      "tr": "[E] Kapat",
+      "en": "[E] Close",
+      "note": ""
+    },
+    {
+      "id": "prompt.enter",
+      "tr": "[E] Gir",
+      "en": "[E] Enter",
+      "note": ""
+    },
+    {
+      "id": "prompt.read",
+      "tr": "[E] Oku",
+      "en": "[E] Read",
+      "note": ""
+    },
+    {
+      "id": "prompt.take",
+      "tr": "[E] Al",
+      "en": "[E] Take",
+      "note": ""
+    },
+    {
+      "id": "ui.lens_key",
+      "tr": "[G] Gözlük",
+      "en": "[G] Monocle",
+      "note": ""
+    },
+    {
+      "id": "ui.lens_hint",
+      "tr": "Gözlüğü fareyle ya da yön tuşlarıyla parşömenin üstünde gezdir",
+      "en": "Move the monocle over the scroll with the mouse or the arrow keys",
+      "note": ""
+    },
+    {
+      "id": "item.monocle",
+      "tr": "Tek camlı gözlük",
+      "en": "Monocle",
+      "note": ""
+    },
+    {
+      "id": "objective.church",
+      "tr": "Kiliseye git",
+      "en": "Go to the church",
+      "note": ""
+    },
+    {
+      "id": "objective.palace",
+      "tr": "Saraya gir",
+      "en": "Enter the palace",
+      "note": ""
+    },
+    {
+      "id": "cheat.onehit_on",
+      "tr": "TEK VURUŞ AÇIK",
+      "en": "ONE-HIT KILL ON",
+      "note": ""
+    },
+    {
+      "id": "cheat.onehit_off",
+      "tr": "TEK VURUŞ KAPALI",
+      "en": "ONE-HIT KILL OFF",
+      "note": ""
+    },
+    {
+      "id": "hud.health_pct",
+      "tr": "CAN  %{0}",
+      "en": "HEALTH  {0}%",
+      "note": ""
+    },
+    {
+      "id": "hud.percent",
+      "tr": "%{0}",
+      "en": "{0}%",
+      "note": "Compact health-bar percentage."
+    },
+    {
+      "id": "hud.level",
+      "tr": "SEVİYE",
+      "en": "LEVEL",
+      "note": ""
+    },
+    {
+      "id": "hud.controls_hint",
+      "tr": "TUŞLAR\nHareket: A / D veya ok tuşları\nZıpla: Space / W / yukarı ok\nDash: Shift\nSaldırı: J / sol tık",
+      "en": "CONTROLS\nMove: A / D or arrow keys\nJump: Space / W / up arrow\nDash: Shift\nAttack: J / left click",
+      "note": "Level 1 controls shown until the rhino boss is defeated"
+    },
+    {
+      "id": "pause.title",
+      "tr": "DURAKLATILDI",
+      "en": "PAUSED",
+      "note": ""
+    },
+    {
+      "id": "pause.resume",
+      "tr": "Devam Et",
+      "en": "Resume",
+      "note": ""
+    },
+    {
+      "id": "pause.restart",
+      "tr": "Bölümü Baştan Başlat",
+      "en": "Restart Level",
+      "note": ""
+    },
+    {
+      "id": "pause.language",
+      "tr": "Dil: {0}",
+      "en": "Language: {0}",
+      "note": ""
+    },
+    {
+      "id": "pause.menu",
+      "tr": "Ana Menü",
+      "en": "Main Menu",
+      "note": ""
+    },
+    {
+      "id": "pause.hint",
+      "tr": "↑ ↓ ve Enter  ·  fareyle tıkla  ·  ESC: devam",
+      "en": "↑ ↓ and Enter  ·  click with the mouse  ·  ESC: resume",
+      "note": ""
+    },
+    {
+      "id": "perk.title",
+      "tr": "SEVİYE ATLADIN!",
+      "en": "LEVEL UP!",
+      "note": ""
+    },
+    {
+      "id": "perk.subtitle",
+      "tr": "Seviye {0}  —  bir özellik seç",
+      "en": "Level {0}  -  choose a perk",
+      "note": ""
+    },
+    {
+      "id": "perk.hint",
+      "tr": "1 / 2 / 3  ya da  ← →  ve  E  ·  fareyle tıkla",
+      "en": "1 / 2 / 3  or  ← →  and  E  ·  or click with the mouse",
+      "note": ""
+    },
+    {
+      "id": "perk.damage.title",
+      "tr": "GÜÇLÜ VURUŞ",
+      "en": "POWER STRIKE",
+      "note": ""
+    },
+    {
+      "id": "perk.damage.desc",
+      "tr": "Her vuruş daha fazla hasar verir.",
+      "en": "Every hit deals more damage.",
+      "note": ""
+    },
+    {
+      "id": "perk.damage.gain",
+      "tr": "Hasar {0} → {1}",
+      "en": "Damage {0} → {1}",
+      "note": ""
+    },
+    {
+      "id": "perk.damage.cost",
+      "tr": "Saldırıların %{0} yavaşlar",
+      "en": "Your attacks become {0}% slower",
+      "note": ""
+    },
+    {
+      "id": "perk.heal.title",
+      "tr": "CAN YENİLE",
+      "en": "FULL HEAL",
+      "note": ""
+    },
+    {
+      "id": "perk.heal.desc",
+      "tr": "Canın hemen tamamen dolar.",
+      "en": "Your health is fully restored right away.",
+      "note": ""
+    },
+    {
+      "id": "perk.heal.gain",
+      "tr": "Can %{0} → %100",
+      "en": "Health {0}% → 100%",
+      "note": ""
+    },
+    {
+      "id": "perk.heal.cost",
+      "tr": "Sonraki seviye %{0} daha fazla XP ister",
+      "en": "The next level needs {0}% more XP",
+      "note": ""
+    },
+    {
+      "id": "perk.double.title",
+      "tr": "ÇİFT VURUŞ",
+      "en": "DOUBLE STRIKE",
+      "note": ""
+    },
+    {
+      "id": "perk.double.desc",
+      "tr": "Saldırıların hedefe art arda iki kez vurur.",
+      "en": "Your attacks hit the target twice in a row.",
+      "note": ""
+    },
+    {
+      "id": "perk.double.gain",
+      "tr": "Her saldırı 2 kez vurur",
+      "en": "Every attack hits twice",
+      "note": ""
+    },
+    {
+      "id": "perk.double.cost",
+      "tr": "Her vuruş %{0} daha az hasar verir",
+      "en": "Each hit deals {0}% less damage",
+      "note": ""
+    },
+    {
+      "id": "perk.health.title",
+      "tr": "DAYANIKLILIK",
+      "en": "ENDURANCE",
+      "note": ""
+    },
+    {
+      "id": "perk.health.desc",
+      "tr": "Can barın büyür, en fazla canın %25 artar.",
+      "en": "Your health bar grows; your maximum health increases by 25%.",
+      "note": ""
+    },
+    {
+      "id": "perk.health.gain",
+      "tr": "Can barı %{0} olur",
+      "en": "Health bar becomes {0}%",
+      "note": ""
+    },
+    {
+      "id": "perk.health.cost",
+      "tr": "Hareket hızın %{0} düşer",
+      "en": "Your move speed drops by {0}%",
+      "note": ""
+    },
+    {
+      "id": "mobile.jump",
+      "tr": "Zıpla",
+      "en": "Jump",
+      "note": ""
+    },
+    {
+      "id": "mobile.attack",
+      "tr": "Saldır",
+      "en": "Attack",
+      "note": ""
+    },
+    {
+      "id": "mobile.dash",
+      "tr": "Atılma",
+      "en": "Dash",
+      "note": ""
+    }
+  ]
+}

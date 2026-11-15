@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: f63f746112d1b1642bcd276ee6825a78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8401324261805781431
+    second: gergedansol4_0
+  - first:
+      213: 1257478451651142049
+    second: gergedansol4_1
+  - first:
+      213: 1953942309009164256
+    second: gergedansol4_2
+  - first:
+      213: -150469199599571757
+    second: gergedansol4_3
+  - first:
+      213: 5969370510772325608
+    second: gergedansol4_4
+  - first:
+      213: -540050816245544284
+    second: gergedansol4_5
+  - first:
+      213: -6827583418095513689
+    second: gergedansol4_6
+  - first:
+      213: -6504606958601747627
+    second: gergedansol4_7
+  - first:
+      213: -3165400191678705254
+    second: gergedansol4_8
+  - first:
+      213: 9213344927527921359
+    second: gergedansol4_9
+  - first:
+      213: -2817041919514043482
+    second: gergedansol4_10
+  - first:
+      213: 5737185462523347405
+    second: gergedansol4_11
+  - first:
+      213: -4975399409038022761
+    second: gergedansol4_12
+  - first:
+      213: 3804783989979837570
+    second: gergedansol4_13
+  - first:
+      213: 8330741793437027518
+    second: gergedansol4_14
+  - first:
+      213: 4257910327146374647
+    second: gergedansol4_15
+  - first:
+      213: 4932320096820267740
+    second: gergedansol4_16
+  - first:
+      213: -5622343229185919885
+    second: gergedansol4_17
+  - first:
+      213: 1515068562625499867
+    second: gergedansol4_18
+  - first:
+      213: -2243550318830850025
+    second: gergedansol4_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.4811, y: 0.1437}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gergedansol4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 479
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e02349810886b80800000000000000
+      internalID: -8401324261805781431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 480
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1ef574df5737110800000000000000
+      internalID: 1257478451651142049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 479
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e709187d2ccd1b10800000000000000
+      internalID: 1953942309009164256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 480
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcea386f0d69edf0800000000000000
+      internalID: -150469199599571757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 478
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecc64b3ad677d250800000000000000
+      internalID: 5969370510772325608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 479
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa4609d4aa5188f0800000000000000
+      internalID: -540050816245544284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 479
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afc11a2e0d8f31a0800000000000000
+      internalID: -6827583418095513689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 479
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553420d1f6efab5a0800000000000000
+      internalID: -6504606958601747627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 479
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a919903fb4d3214d0800000000000000
+      internalID: -3165400191678705254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 478
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6e27ea5606cdf70800000000000000
+      internalID: 9213344927527921359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 481
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab1bfdac4bd7e8d0800000000000000
+      internalID: -2817041919514043482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 480
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc14d3008c39e9f40800000000000000
+      internalID: 5737185462523347405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 479
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797a9982994d3fab0800000000000000
+      internalID: -4975399409038022761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 479
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28477d951ee4dc430800000000000000
+      internalID: 3804783989979837570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 480
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc8051e58dbc9370800000000000000
+      internalID: 8330741793437027518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_15
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 479
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5e60712e2271b30800000000000000
+      internalID: 4257910327146374647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 479
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda0e79defe137440800000000000000
+      internalID: 4932320096820267740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_17
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 479
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374fc0b1f9c69f1b0800000000000000
+      internalID: -5622343229185919885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 480
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd297ad94da960510800000000000000
+      internalID: 1515068562625499867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gergedansol4_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 67
+        width: 802
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7107f523fde4dd0e0800000000000000
+      internalID: -2243550318830850025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gergedansol4_0: -8401324261805781431
+      gergedansol4_1: 1257478451651142049
+      gergedansol4_10: -2817041919514043482
+      gergedansol4_11: 5737185462523347405
+      gergedansol4_12: -4975399409038022761
+      gergedansol4_13: 3804783989979837570
+      gergedansol4_14: 8330741793437027518
+      gergedansol4_15: 4257910327146374647
+      gergedansol4_16: 4932320096820267740
+      gergedansol4_17: -5622343229185919885
+      gergedansol4_18: 1515068562625499867
+      gergedansol4_19: -2243550318830850025
+      gergedansol4_2: 1953942309009164256
+      gergedansol4_3: -150469199599571757
+      gergedansol4_4: 5969370510772325608
+      gergedansol4_5: -540050816245544284
+      gergedansol4_6: -6827583418095513689
+      gergedansol4_7: -6504606958601747627
+      gergedansol4_8: -3165400191678705254
+      gergedansol4_9: 9213344927527921359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
