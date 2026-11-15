@@ -71,3 +71,6 @@ Found a bug? Have an idea? Want to contribute?
 Visit our GitHub repository and become part of the development process.
 
 Thank you for supporting Republica Animalium.
+
+İtch.io link : https://lofnyy.itch.io/republica-animalium
+
