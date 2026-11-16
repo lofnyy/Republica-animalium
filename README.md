@@ -1,3 +1,7 @@
+<img width="1235" height="362" alt="resim" src="https://github.com/user-attachments/assets/92fb0dc1-961f-4ca4-9787-87225146a762" />
+
+
+
 # REPUBLICA ANIMALIUM
 
 *When power becomes absolute, rebellion becomes inevitable.*
