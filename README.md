@@ -64,6 +64,7 @@ Melike Kayar ,
 Esat Çiftci ,
 Göktuğ Tokgöz ,
 Narin Akyıldız
+İpek Safran
 ## Community & Contributions
 
 Found a bug? Have an idea? Want to contribute?
